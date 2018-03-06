@@ -135,7 +135,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App\templates\HtmlPage.html" />
     <Content Include="App\templates\HtmlPage1.html" />
     <Content Include="packages.config" />
     <Content Include="Views\Shared\Error.cshtml" />
